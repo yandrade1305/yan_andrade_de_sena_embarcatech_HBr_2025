@@ -18,6 +18,8 @@ Cada projeto tem sua própria pasta, contendo o código-fonte, documentação e 
 
 ---
 
-## Projetos
+## 📂 Lista de Projetos
 
-- [Aquamatico Mini](./projetos/aquamatico_mini/)
+| Projeto | Descrição |
+|---------|-----------|
+| [Aquamatico Mini](./projetos/aquamatico_mini/) | Automação de um aquário utilizando a BitDogLab |
